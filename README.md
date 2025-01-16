@@ -116,8 +116,4 @@ Para probar la API puedes usar herramientas como [Postman](https://www.postman.c
 
 - **Authorization**: `Bearer {jwt_token}`
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
-
 
